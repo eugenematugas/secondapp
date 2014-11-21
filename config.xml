@@ -4,7 +4,7 @@
         id          = "com.phonegap.example"
         versionCode = "10" 
         version     = "1.0.0" >
-        <name>MyPersonalApp</name>
+        <name>My Portfolio</name>
         <icon src="img/profilepic.png" />
    	 <gap:splash src="img/icon.png" gap:platform="android" />
 	</widget>
