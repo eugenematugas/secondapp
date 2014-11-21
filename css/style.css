@@ -29,11 +29,12 @@
 	font-family: "Sabon";
 }
 .profile_pic{
-	padding-top: 190px;
+	padding-top: 160px;
 	padding-left: 20px;
 }
 .info{
 	text-align: center;
+	font-size: 20px;
 }
 @media screen and (max-width: 1000px){
 	.profile_pic{
@@ -41,6 +42,10 @@
 		padding-left: 0;
 	}
 	.info{
-		padding-top: 80px;
+		padding-top: 100px;
 	}
 }
+
+.socialmedia{}
+.socialmedia ul{}
+.socialmedia li{display: inline;text-decoration: none;}

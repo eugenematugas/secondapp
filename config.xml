@@ -5,6 +5,6 @@
         versionCode = "10" 
         version     = "1.0.0" >
         <name>MyPersonalApp</name>
-        <icon src="img/icon.png" />
-   	 <gap:splash src="/imgicon.png" gap:platform="android" />
+        <icon src="img/profilepic.png" />
+   	 <gap:splash src="img/icon.png" gap:platform="android" />
 	</widget>
