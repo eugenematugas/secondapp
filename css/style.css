@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	background-image: url("../img/banner.jpg");
+	height: 250px;
+}
+.logo{
+	float: left;
+}
+.logo h2{
+	font-family: "Sabon";
+	color: #FFF;
+}
+#menu{
+	float: right;
+}
+#menu ul{}
+#menu li{
+	display: inline;
+	padding: 5px;
+	padding-top: 20px;
+}
+#menu a{
+	font-size: 17px;
+	color:#FFF;
+	line-height: 20px;
+	font-family: "Sabon";
+}
+.profile_pic{
+	padding-top: 190px;
+	padding-left: 20px;
+}
+.info{
+	text-align: center;
+}
+@media screen and (max-width: 1000px){
+	.profile_pic{
+		text-align: center;
+		padding-left: 0;
+	}
+	.info{
+		padding-top: 80px;
+	}
+}
